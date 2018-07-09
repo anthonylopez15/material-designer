@@ -34,6 +34,7 @@
         android:layout_margin="16dp"
         android:src="@drawable/ic_fab"
         app:fabSize="normal"
-        app:elevation="8dp"/>
+        app:elevation="8dp"
+        />
 
 </RelativeLayout>
