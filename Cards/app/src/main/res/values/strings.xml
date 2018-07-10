@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="titulo">Titulo</string>
+    <string name="subtitulo">Subtitulo</string>
+    <string name="imagem_header_view">Imagem da view</string>
+    <string name="description_footer">Estamos criando um belo card view para no projeto de app Android</string>
+    <string name="imagem_corpo">imagem_corpo</string>
+</resources>
